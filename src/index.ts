@@ -1,3 +1,3 @@
-export default function SpongeBobCase (input : String){
-
+export default function SpongeBobCase(input: String): String {
+  return "";
 }
