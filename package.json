@@ -1,5 +1,5 @@
 {
-  "name": "spongebob_case",
+  "name": "spongebob_squarepants_case",
   "version": "0.0.1",
   "description": "A utility that converts strings to spongebob case",
   "main": "dist/index.js",
