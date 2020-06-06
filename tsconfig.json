@@ -1,10 +1,11 @@
 {
   "compilerOptions": {
-    "target": "ES2019",
+    "target": "ES5",
     "strict": true,
     "moduleResolution": "Node",
     "noImplicitAny": true,
     "strictNullChecks": true,
+    "downlevelIteration": true,
     "sourceMap": true,
     "outDir": "dist",
     "baseUrl": ".",
