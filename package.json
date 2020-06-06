@@ -12,6 +12,10 @@
   "engines": {
     "node": ">= 12.13.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AtofStryker/spongebob-case.git"
+  },
   "keywords": [
     "sponge",
     "spongebob",
