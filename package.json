@@ -12,6 +12,15 @@
   "engines": {
     "node": ">= 12.13.0"
   },
+  "keywords": [
+    "sponge",
+    "spongebob",
+    "squarepants",
+    "mock",
+    "mocking",
+    "nitpicky",
+    "case"
+  ],
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged"
