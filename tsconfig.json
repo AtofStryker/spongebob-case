@@ -11,8 +11,8 @@
     "types": ["node", "jest"],
     "paths": {
       "@/*": ["src/*"]
-    },
+    }
   },
   "include": ["src/**/*.ts"],
-  "exclude": ["node_modules"]
+  "exclude": ["node_modules", "src/**/*.spec.ts"]
 }
